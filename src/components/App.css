@@ -1,0 +1,51 @@
+body {
+    background-color : #232020;
+}
+
+
+.ui.container{
+    width :90%;
+}
+
+.ui.icon.menu{
+    background-color: transparent !important;
+}
+
+.ui.three.item.menu{
+    height : 30px;
+}
+
+.ui.icon.menu{
+    height : 30px;
+}
+
+
+
+.search-bar{
+  width : 30%;
+  background-color: transparent;
+  margin-left: 20%;
+  margin-top: 10px;
+}
+
+ul{
+    padding-inline-start: 0px !important ;
+}
+
+.ui.inverted.menu.item::before {
+    background: transparent !important;
+}
+
+
+.ui.menu .item:before{
+    background: transparent !important;
+}
+
+.ui.card{
+    background: transparent;
+}
+
+.ui.card, .ui.cards>.card{
+    border-radius: 0rem;
+    box-shadow:none;
+}

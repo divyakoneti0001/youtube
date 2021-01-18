@@ -1,0 +1,15 @@
+.video-item{
+    display : flex !important;
+    align-items: center !important;
+
+}
+
+.video-item.item{
+}
+
+.content-text.description{
+    color : white !important;
+    font-size : 8 px;
+}
+
+
