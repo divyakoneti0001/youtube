@@ -10,3 +10,10 @@ Enhanced Youtube Application :
 Further enhancements include:
 1.Addition of links to tags for proper routing
 2.Addition of customization bar in comments section
+3.Make the application fully responsive 
+
+
+SETUP : 
+
+1. npm install 
+2.Add you api key in src/components/apis/youtube.js file to use the youtube apis.
