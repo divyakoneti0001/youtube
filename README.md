@@ -9,6 +9,8 @@
 </ol>
 <br>
 
+Further enhancements include:
+
 <ol>
 <li> Addition of links to tags for proper routing </li>
 <li> Addition of customization bar in comments section </li>
