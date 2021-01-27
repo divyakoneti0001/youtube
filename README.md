@@ -1,19 +1,23 @@
-# youtube
+#youtube
 
-Enhanced Youtube Application :
+### Enhanced Youtube Application :
 
-1.This application has been desgined from scratch using React JS.
-2.Works similar to youtube ,helps in searching videos and has a user friendly UI.
-3.Some Enhancements have been added to the normal working application such as :
-    --On just a click, you can customize your background colour or image.
-    
-Further enhancements include:
-1.Addition of links to tags for proper routing
-2.Addition of customization bar in comments section
-3.Make the application fully responsive 
+<ol>
+<li> This application has been desgined from scratch using React JS. </li>
+<li> Works similar to youtube ,helps in searching videos and has a user friendly UI. </li>
+<li> Some Enhancements have been added to the normal working application such as, on just a click, you can customize your background colour or image. </li>
+</ol>
+<br>
 
+<ol>
+<li> Addition of links to tags for proper routing </li>
+<li> Addition of customization bar in comments section </li>
+<li> Make the application fully responsive </li>
+</ol>
+<br>
 
-SETUP : 
-
-1. npm install 
-2.Add you api key in src/components/apis/youtube.js file to use the youtube apis.
+SETUP :
+<ol>
+<li> npm install </li>
+<li> Add you api key in src/components/apis/youtube.js file to use the youtube apis. </li>
+</ol>
